@@ -39,4 +39,5 @@ class ThreadDemo implements Runnable{
     public void setFlag(boolean flag) {
         this.flag = flag;
     }
+    
 }
