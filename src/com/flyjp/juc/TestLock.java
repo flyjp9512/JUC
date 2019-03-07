@@ -5,7 +5,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * 一、用于解决多线程安全问题的方式：
- * synchronized:
+ * synchronized:隐式锁
  * 1.同步代码块
  *
  * 2.同步方法
